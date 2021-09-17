@@ -5,6 +5,6 @@ Feel free to view my code, (which is largely undocumented), to get ideas for how
 
 # Requirements To Run
 These scrapers require an installation of the following Python libraries:
-bs4, requests, selenium, and chromedriver
+bs4, requests, selenium, and chromedriver.
 
 I cannot guarantee that any of these scrapers still work! While they worked in 2019, any small update to the structure of these websites can render such scrapers disfunctional. 
